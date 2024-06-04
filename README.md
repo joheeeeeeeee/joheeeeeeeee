@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-F7DF1E?style=for-the-badge&logo=JSP&logoColor=white">
+   <img src="https://img.shields.io/badge/python-9187FF?style=for-the-badge&logo=python&logoColor=white">
   <br/><br/>
  
   
@@ -64,6 +65,7 @@ Here are some ideas to get you started:
   ####  🔨 개발도구 🔨 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/intelliJ-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <br/><br/>
 
 </div>
