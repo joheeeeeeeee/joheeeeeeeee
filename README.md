@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 <br/> <br/> <br/> <br/>
 
 ##  📃 SPRING프로젝트
-&nbsp;&nbsp;📌 2024년 SW전문인력 해커톤 부문 - 임산부를 위한 사이트<br/>
+&nbsp;&nbsp;📌 2024년 SW전문인력 해커톤 부문(금상) - 임산부를 위한 사이트<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/joheeeeeeeee/wsu)
 
 <br/> <br/> <br/> <br/>
