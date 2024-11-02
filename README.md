@@ -107,4 +107,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;📌 2024년 SW전문인력 해커톤 부문(금상) - 임산부를 위한 사이트<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/joheeeeeeeee/wsu)
 
+&nbsp;&nbsp;📌 2024년 SW전문인력 해커톤 부문(금상) - 친환경 농산물 사이트<br/>
+<a href="https://github.com/HwangWooJin1028/2023-capstone-shppingmall.git"><img src="https://camo.githubusercontent.com/ece305276d7f8498254501a2825469d108a09f1187c36c9d7107b78a459b8e41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a>
 <br/> <br/> <br/> <br/>
